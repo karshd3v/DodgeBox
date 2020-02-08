@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/11817859/74080668-8fefc400-4a6c-11ea-9751-f9bd8774fa63.png)
 
-# RNSensorDemo
+# React-SensorGame
 A sample React Native app that uses the accelerometer data from React Native Sensors.
 
 You can read the full tutorial at: [https://pusher.com/tutorials/game-device-sensors-react-native](https://pusher.com/tutorials/game-device-sensors-react-native)
@@ -16,8 +16,8 @@ You can read the full tutorial at: [https://pusher.com/tutorials/game-device-sen
 1.  Clone the repo:
 
 ```
-git clone https://github.com/anchetaWern/RNSensorDemo.git
-cd RNSensorDemo
+git clone https://github.com/karshd3v/React-SensorGame.git
+cd React-SensorGame
 ```
 
 2.  Install the app dependencies:
